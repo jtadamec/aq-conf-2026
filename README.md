@@ -63,3 +63,12 @@
     - Admins will be able to drag them into the orders that they should be seen 
   - AA WCAG accessibility support for public facing pieces 
   - Samples metadata being available in Web Portal 
+  - Visitor analytics (via google analytics) to track site usage
+    - Umami (GDPR compliant) also available 
+- Connect 
+  - Token based authentication 
+    - currently only supports credentials
+  - Communicating export failures 
+  - Improved file processing around "next start point" value
+
+  ![Future Timeline](/resources/future-enhancements.jpg)
