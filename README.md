@@ -1,2 +1,5 @@
-# aq-conf-2026
-Aquatic Informatics Aquarius Conference 2026 Notes 
+# Aquarius Conference 2026
+
+Ott hydromet, in-situ 
+
+## Samples 
