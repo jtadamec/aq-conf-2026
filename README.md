@@ -71,4 +71,4 @@
   - Communicating export failures 
   - Improved file processing around "next start point" value
 
-  ![Future Timeline](/resources/future-enhancements.jpg)
+  ![Future Timeline](./resources/future-enhancements.jpg)
