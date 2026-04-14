@@ -14,6 +14,9 @@
 ## Edit Categories - Create/Estimate 
 - Single Point, Gap Fill, Override 
 - Estimate when there is a rule that data has to be there
+- Grades, Qualifiers, Notes, Location Notes
+  - Notes differ from Location Notes in that you can add a tag and period of time to a note, while Location Notes are just a list 
+  - Location Notes don't lock with approval, Notes do 
 
 ## Aquarius Time Series Action Priorities 
 - Ensure that calculations are applied in a logical order
