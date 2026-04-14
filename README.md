@@ -15,3 +15,4 @@
 - **NASH** - [North American Stream Hydrographers](https://nash.cwra.org/)
 - **YST** - Yukon Standard Time
   - The Canadians bravely eliminated Daylight Savings Time and are going to teach us all how to do the same: [Wikipedia](https://en.wikipedia.org/wiki/Time_in_British_Columbia)
+- **AquaPortal** - CAP's publicly visible data hosted on Aquarius Web Portal - [https://aquaportal.cap-az.com/Data](https://aquaportal.cap-az.com/Data)
