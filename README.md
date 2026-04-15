@@ -12,6 +12,7 @@
 
 - [Groundwater Wells](./docs/groundwater.md)
 - [Aquarius Core Concepts](./docs/aquarius-core.md)
+- [HydroCorrect](./docs/hydrocorrect.md)
 
 ## Glossary 
 - **DRT** - Data Review Tool 
