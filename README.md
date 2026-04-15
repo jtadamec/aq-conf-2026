@@ -10,6 +10,8 @@
 
 ### Wednesday, April 15th
 
+- [Groundwater Wells](./docs/groundwater.md)
+
 ## Glossary 
 - **DRT** - Data Review Tool 
 - **NASH** - [North American Stream Hydrographers](https://nash.cwra.org/)
