@@ -11,6 +11,7 @@
 ### Wednesday, April 15th
 
 - [Groundwater Wells](./docs/groundwater.md)
+- [Aquarius Core Concepts](./docs/aquarius-core.md)
 
 ## Glossary 
 - **DRT** - Data Review Tool 
